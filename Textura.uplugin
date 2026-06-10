@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Textura",
+	"Description": "Read and write rich text entries from a data table, with per-entry stylesheets and live preview.",
+	"Category": "Other",
+	"CreatedBy": "Oliver Moloney",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Textura",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
